@@ -20,7 +20,7 @@ Este projeto visa analisar a eficiência produtiva, o volume de refugo e o impac
 ## 📈 Dashboard
 ![Visão Geral](Painel%20industrial%202026.PNG)
 ![Exemplo Interativo](Painel%20industrial%202026%20-%20interativo.PNG)
-![Estrutura do Modelo](Relações.PNG)
+![Estrutura do Modelo](Relacoes.PNG)
 
 ## 💡 O que este projeto demonstra?
 *   Capacidade de transformar dados brutos em insights estratégicos.
